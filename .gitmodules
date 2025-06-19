@@ -1,0 +1,6 @@
+[submodule "filewatcher"]
+	path = filewatcher
+	url = https://github.com/aarangop/note-rags-filewatcher.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/aarangop/note-rags-infrastructure.git
