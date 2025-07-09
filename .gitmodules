@@ -4,3 +4,6 @@
 [submodule "infrastructure"]
 	path = infrastructure
 	url = https://github.com/aarangop/note-rags-infrastructure.git
+[submodule "services"]
+	path = services
+	url = https://github.com/aarangop/note-rags-services.git
